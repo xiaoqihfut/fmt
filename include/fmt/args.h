@@ -1,7 +1,7 @@
 // Formatting library for C++ - dynamic argument lists
 //
 // Copyright (c) 2012 - present, Victor Zverovich
-// All rights reserved.
+// All rights reserved. my
 //
 // For the license information refer to format.h.
 
